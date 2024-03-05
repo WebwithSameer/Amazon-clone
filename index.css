@@ -22,7 +22,7 @@
 
 .logo {
     background-size: cover;
-    background-image: url("amazon_logo.png");
+    background-image: url("image11.png");
     height: 50px;
     width: 100%;
 }
@@ -144,7 +144,7 @@
 .lang-logo {
 
     background-size: cover;
-    background-image: url("istockphoto-472317739-612x612.jpg");
+    background-image: url("image20.jpg");
     height: 16.9px;
     width: 100%;
 }
@@ -229,7 +229,7 @@ span {
 
 /* hero section */
 .hero-section {
-    background-image: url("PC_Hero_3000x1200_NTA_2X._CB599338253_.jpg");
+    background-image: url("image27.jpg");
     background-size: cover;
     height: 300px;
 }
